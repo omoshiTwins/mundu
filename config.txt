@@ -1,0 +1,5 @@
+{
+	"ip":"Omo_Japanese_Village.aternos.me",
+	"port": "50007",
+	"name": "gadha"
+}
